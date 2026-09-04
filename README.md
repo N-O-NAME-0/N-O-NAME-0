@@ -17,7 +17,6 @@
 * 🧩 I simplify complex systems and make them easier to use.
 * 🔍 Interested in Reverse Engineering & application analysis.
 * 🛠️ I build practical, efficient, and purpose-driven tools.
-* 🔓 Open by design. Accessible by default. User-first.
 * 🧠 Always exploring how things work under the hood.
 
 ---
@@ -73,7 +72,7 @@
 ## 🎯 Philosophy
 
 
-Good software is not just powerful — it's easy, open, and respects the user.
+🔓 Open by design. Accessible by default. User-first.
 
 ---
 
