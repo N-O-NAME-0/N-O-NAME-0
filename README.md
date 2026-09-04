@@ -1,50 +1,41 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Reverse+Engineer;UX+Focused+Developer;Tool+Builder;Open+Source+Advocate&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Reverse+Engineer;Systems+%26+UX+Focused+Developer;Tool+Builder;Open+Source+Enthusiast&center=true&width=550&height=50">
 </p>
 
 <p align="center">
-💻 Software Engineer | Reverse Engineering | Problem Solver  
+  💻 Software Engineer | Reverse Engineering | Systems & UX
 </p>
 
 <p align="center">
-⚡ I build tools that simplify complex systems and improve user experience
+  ⚡ I build practical tools that simplify complex systems and improve the user experience
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🧩 I simplify complex systems and improve usability  
-- 🔍 Reverse Engineering & application analysis enthusiast  
-- 🛠️ I build practical, efficient, and purpose-driven tools  
-- 🚫 Against monopolies — I support open and accessible software  
-- 💼 Freelancer (currently off)
+* 🧩 I simplify complex systems and make them easier to use.
+* 🔍 Interested in Reverse Engineering & application analysis.
+* 🛠️ I build practical, efficient, and purpose-driven tools.
+* 🔓 Open by design. Accessible by default. User-first.
+* 🧠 Always exploring how things work under the hood.
 
 ---
 
 ## 🔬 Current Focus
 
-- Reverse Engineering
-- Automation Tools
-- UX Simplification
-
----
-
-## 🌍 Languages
-
-- 🇸🇦 Arabic 
-- 🇬🇧 English 
-- 🇫🇷 French
-- 🇯🇵 Japanese
+* Reverse Engineering
+* Systems & Networking
+* Automation Tools
+* UX Simplification
+* Developer Utilities
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,go,rust,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,svelte,html,css,go,rust,mysql" />
 </p>
 
 <p align="center">
@@ -55,10 +46,11 @@
 
 ## 🚀 What I Build
 
-- 🛠️ Reverse engineering tools  
-- ⚡ Automation scripts  
-- 🎯 UX-focused utilities  
-- 🔍 Debugging & analysis tools  
+* 🛠️ Reverse engineering & analysis tools
+* ⚡ Automation utilities and scripts
+* 🌐 Networking & system tools
+* 🎯 UX-focused applications
+* 🔍 Debugging and developer utilities
 
 ---
 
@@ -80,17 +72,18 @@
 
 ## 🎯 Philosophy
 
+
 Good software is not just powerful — it's easy, open, and respects the user.
 
 ---
 
 ## 📫 Contact
 
-- Telegram: [ℕ𝕆 ℕ𝔸𝕄𝔼](https://t.me/n_o_name_1)
-- Email: 100noname0001@gmail.com
+* Telegram: [ℕ𝕆 ℕ𝔸𝕄𝔼](https://t.me/N_O_NAME_0)
+* Email: [100noname0001@gmail.com](mailto:100noname0001@gmail.com)
 
 ---
 
 <p align="center">
-  ⚡ Always learning.
+  ⚡ Always learning. Always building ⚡
 </p>
